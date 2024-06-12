@@ -1,0 +1,5 @@
+dataset :
+https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
+
+deployment :
+https://huggingface.co/spaces/vickyeldora/Predict-Twitter-Tweets-Sentiment?logs=build
